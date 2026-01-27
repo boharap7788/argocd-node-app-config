@@ -1,1 +1,1 @@
-Node Js Application !
+#k8's Configuration for the Application!!!
