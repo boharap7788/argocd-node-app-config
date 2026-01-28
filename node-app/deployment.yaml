@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: pbohara7788/ai-node:latest
+          image: pbohara7788/node-app-v2:latest
           ports:
             - containerPort: 3000
